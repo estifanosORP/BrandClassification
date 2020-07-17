@@ -18,6 +18,7 @@ The novel dataset (CL-20) is made up of eleven categories of clothing labels fro
 <p align="center">
   <img src="https://github.com/estifanosORP/BrandClassification/blob/master/snipOfDataset.jpg" />
 </p>
+
 ___
 
 ### Description of Folders
