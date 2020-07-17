@@ -1,2 +1,4 @@
-# BrandClassification
-### This project applies transfer learning to classify multi-class images. ResNet-152, VGG-19, and DenseNet-161 were used as the base models. The base models were then statistically combined to form the ensemble model.
+# Brand Classification
+
+This project demonstrates the transfer of knowledge from three CNN networks (namely, VGG-19, DenseNet-161, and ResNet-152) pretrained on the ImageNet dataset onto a novel target dataset by finetuning the layers of the networks during the training phase. Additionally, an ensemble model that combines the networks trained via transfer learning is also proposed to further increase the classification accuracy of the base models.
+
