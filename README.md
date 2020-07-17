@@ -15,7 +15,9 @@ This project demonstrates the transfer of knowledge from three CNN networks (nam
 
 The novel dataset (CL-20) is made up of eleven categories of clothing labels from popular fashion brands. Each category has a total of 200 images, except for one category which has 500 images. Sample images from each category are shown in the image below. 
 
-![snippet](https://drive.google.com/file/d/1OOGSBRP_l9hb-XxrL5yEdNAHfGcCIqoi/view?usp=sharing)
+<p align="center">
+  <img src="https://github.com/estifanosORP/BrandClassification/blob/master/snipOfDataset.jpg" />
+</p>
 ___
 
 ### Description of Folders
