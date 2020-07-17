@@ -25,4 +25,4 @@ ___
 3. **EnsembleModel**: contains a notebook that combines the basemodels to form an ensemble model. 
 4. **Label_Data_TrainTest**: contains the training and testing datasets. The directory tree looks as follows:
 
-![directoryTree](https://drive.google.com/file/d/1hSKS3iaxtX-eVT2clBsb9p4i15pG084J/view?usp=sharing)
+![directoryTree](https://github.com/estifanosORP/BrandClassification/blob/master/directory%20tree.png)
