@@ -22,7 +22,7 @@ ___
 
 1. **Base_Models**: contains notebooks that were used to train and test the base models. 
 2. **Comparion_Metrics**: contains notebooks that were written to compare corresponding networks pretrained on the ImageNet dataset with networks finetuned on the target dataset.
-3. **EnsembleModel**: contains a notebook that combines the basemodels to form an enesemble model. 
+3. **EnsembleModel**: contains a notebook that combines the basemodels to form an ensemble model. 
 4. **Label_Data_TrainTest**: contains the training and testing datasets. The directory tree looks as follows:
 
 ![directoryTree](https://drive.google.com/file/d/1hSKS3iaxtX-eVT2clBsb9p4i15pG084J/view?usp=sharing)
