@@ -14,6 +14,8 @@ This project demonstrates the transfer of knowledge from three CNN networks (nam
 ### Dataset
 
 The novel dataset (CL-20) is made up of eleven categories of clothing labels from popular fashion brands. Each category has a total of 200 images, except for one category which has 500 images. Sample images from each category are shown in the image below. 
+
+![snippet](https://drive.google.com/file/d/1OOGSBRP_l9hb-XxrL5yEdNAHfGcCIqoi/view?usp=sharing)
 ___
 
 ### Description of Folders
@@ -23,8 +25,4 @@ ___
 3. **EnsembleModel**: contains a notebook that combines the basemodels to form an enesemble model. 
 4. **Label_Data_TrainTest**: contains the training and testing datasets. The directory tree looks as follows:
 
-
-
-
-
-
+![directoryTree](https://drive.google.com/file/d/1hSKS3iaxtX-eVT2clBsb9p4i15pG084J/view?usp=sharing)
